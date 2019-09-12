@@ -1,2 +1,2 @@
-# hello-world
+#python
 School and personal Python projects
